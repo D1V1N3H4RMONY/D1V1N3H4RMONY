@@ -1,5 +1,6 @@
-## Hi there 👋
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=" />
 
+> *«He's right. I am a murderer.»*
 <!--
 **D1V1N3H4RMONY/D1V1N3H4RMONY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
