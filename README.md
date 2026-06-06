@@ -12,7 +12,7 @@
 
 - Typology: ┆ infp ┆ sp4 ┆ 4w5 ┆ sp4sp5sp/so8 ┆ EFVL ┆ <br>
 - Fandom: ┆ Undrtale ┆ Sonic ┆ Genshin Impact ┆ Honkai: Star Rail ┆ Homestuck ┆ Naruto ┆ Hotline Miami ┆ Detroit: become Human ┆ Cookie Run: Kingdom ┆ ib ┆ Mogeko Castle ┆ Mobile Legends: Bang Bang ┆ Brawl Stars ┆ Gachiakuta ┆ Jibaku Shounen Hanako-kun ┆ Jujutsu Kaisen ┆  Evangelion ┆ Ride Your Wave ┆ The Apothecary Diaries ┆ NANA ┆ Spirited Away ┆ Maquia: When the Promised Flower Blooms ┆ Chainsaw Man ┆ Your Name ┆ Satsuriku no Tenshi ┆ Howl's Moving Castle ┆ A Silent Voice ┆ Princess Mononoke ┆ Mo Dao Zu Shi ┆ Heaven Official's Blessing ┆ I Want to Eat Your Pancreas ┆ Dr.Stone ┆ Zankyou no Terror ┆ Magical Girl Site ┆ Cyberpunk 2077 ┆ Ouran High School Host Club ┆ Creepypasta ┆ Bungou Stray Dogs ┆    <br>
-- My kinnie: ┆ Sunday (HSR) ┆ Phainon (HSR) ┆ Flins (GI) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Suguru Geto (JK) ┆ Shinji Ikari (Evangelion) ┆ Nana Osaki (NANA) ┆ <br>
+- My kinnie: ┆ Sunday (HSR) ┆ Phainon (HSR) ┆ Flins (GI) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Suguru Geto (JK) ┆ Shinji Ikari (Evangelion) ┆ Nana Osaki (NANA) ┆ Aki Hayakawa (CM) ┆  <br>
 
  </div>
 
