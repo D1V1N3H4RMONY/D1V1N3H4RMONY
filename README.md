@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
  <b>About me</b><br>
 
 - Typology: ┆ infp ┆ sp4 ┆ 4w5 ┆ sp4sp5sp/so8 ┆ EFVL ┆ <br>
@@ -13,3 +15,8 @@
 - My kinnie: ┆ Sunday (HSR) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Suguru Geto (JK) ┆ Shinji Ikari (Evangelion) ┆ Nana Osaki (NANA) ┆ <br>
 
  </div>
+
+---
+
+<div align="center">
+  DNI
