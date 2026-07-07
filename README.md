@@ -39,3 +39,12 @@
   **DNI**
   
  - Pedophile, Sexualizes Minors, Jokes About R4p3, etc.
+ - Minors (<14)
+
+</div>
+
+---
+
+ <b>Small facts about me!</b><br>
+
+1. ,,,
