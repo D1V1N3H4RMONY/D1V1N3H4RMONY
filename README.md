@@ -49,3 +49,4 @@
 
 1. My birthday 02.03. 
 2. I don't write English well, but I'm glad to make any acquaintances т-т.
+3. I'm single. >_0 *wink* *wink*
