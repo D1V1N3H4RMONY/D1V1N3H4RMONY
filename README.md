@@ -10,7 +10,7 @@
 
  <b>About me</b><br>
 
-- Typology: ┆ infp ┆ sp4 ┆ 4w5 ┆ sp4so7sp9 ┆ EFVL ┆ EII ┆   MelChol ┆ <br>
+- Typology: ┆ infp ┆ sp4 ┆ 4w5 ┆ sp4so6sp9 ┆ FLEV ┆ EII ┆   MelChol ┆ <br>
 - Fandom: ┆ MILANA NEKRASOVA ┆ Undrtale ┆ Sonic ┆ Genshin Impact ┆ Honkai: Star Rail ┆ Homestuck ┆ Naruto ┆ Hotline Miami ┆ Detroit: become Human ┆ Cookie Run: Kingdom ┆ ib ┆ Mogeko Castle ┆ Mobile Legends: Bang Bang ┆ Brawl Stars ┆ Gachiakuta ┆ Jibaku Shounen Hanako-kun ┆ Jujutsu Kaisen ┆  Evangelion ┆ Ride Your Wave ┆ The Apothecary Diaries ┆ NANA ┆ Spirited Away ┆ Maquia: When the Promised Flower Blooms ┆ Chainsaw Man ┆ Your Name ┆ Satsuriku no Tenshi ┆ Howl's Moving Castle ┆ A Silent Voice ┆ Princess Mononoke ┆ Mo Dao Zu Shi ┆ Heaven Official's Blessing ┆ I Want to Eat Your Pancreas ┆ Dr.Stone ┆ Zankyou no Terror ┆ Magical Girl Site ┆ Cyberpunk 2077 ┆ Ouran High School Host Club ┆ Creepypasta ┆ Bungou Stray Dogs ┆ 8:11 ┆ Mad Father ┆ Mouthwashing ┆ Banana Fish ┆ Five Nights at Freddy’s ┆ Deltarune ┆ Arcane ┆ Shadows House ┆ OFF (OFF the game) ┆ My Little Pony ┆ Sherlock ┆  <br>
 - My kinnie: ┆ Sunday (HSR) ┆ Phainon (HSR) ┆ Xiao (GI) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Yuji Itadori (JK) ┆ Shinji Ikari (Evangelion) ┆ Nana Osaki (NANA) ┆ Aki Hayakawa (CM) ┆ Ryker Dublin (8:11) ┆ Jinx (Arcane) ┆ Xie Lian (HOB) ┆ Eiji Okumura (BF) ┆   <br>
 
