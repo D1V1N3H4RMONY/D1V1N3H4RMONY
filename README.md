@@ -51,3 +51,9 @@
 2. I don't write English well, but I'm glad to make any acquaintances т-т.
 3. I hate love.
 4. I love tarot and esotericism. ^_^
+
+
+
+<p align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 150'%3E%3Cstyle%3E%40keyframes pulse%7B0%25%7Bopacity:0.7%7D50%25%7Bopacity:1%7D100%25%7Bopacity:0.7%7D%7D%40keyframes glow%7B0%25%7Btext-shadow:0 0 10px %23ff6b6b%7D50%25%7Btext-shadow:0 0 30px %23ff6b6b%7D100%25%7Btext-shadow:0 0 10px %23ff6b6b%7D%7D.text%7Banimation:pulse 3s infinite;font-family:'Courier New',monospace;text-anchor:middle%7D.sub%7Banimation:pulse 4s infinite;font-family:'Courier New',monospace;text-anchor:middle;opacity:0.6%7D%3C/style%3E%3Crect width='600' height='150' fill='%230a0a0f' rx='10'/%3E%3Ctext x='300' y='65' class='text' fill='%23ff6b6b' font-size='32'%3ED1V1N3H4RMONY%3C/text%3E%3Ctext x='300' y='110' class='sub' fill='%238892b0' font-size='16'%3E✦ he's right. i am a murderer ✦%3C/text%3E%3C/svg%3E" alt="D1V1N3H4RMONY" width="100%"/>
+
