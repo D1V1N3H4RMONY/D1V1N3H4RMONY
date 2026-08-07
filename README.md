@@ -40,6 +40,7 @@
   
  - Pedophile, Sexualizes Minors, Jokes About R4p3, etc.
  - Minors (<14)
+ - Draft (omg hate him sooo much)
 
 </div>
 
