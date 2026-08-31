@@ -12,7 +12,7 @@
 
 - Typology: ┆ infp ┆ so/sp4 ┆ 4w5 ┆ so4sp6sp9 ┆ ELVF ┆ EII ┆  MelChol ┆ <br>
 - Fandom: ┆ MILANA NEKRASOVA ┆ Undertale ┆ Sonic ┆ Genshin Impact ┆ Honkai: Star Rail ┆ Homestuck ┆ Naruto ┆ Hotline Miami ┆ Detroit: become Human ┆ Cookie Run: Kingdom ┆ ib ┆ Mogeko Castle ┆ Mobile Legends: Bang Bang ┆ Brawl Stars ┆ Gachiakuta ┆ Jibaku Shounen Hanako-kun ┆ Jujutsu Kaisen ┆  Evangelion ┆ Ride Your Wave ┆ The Apothecary Diaries ┆ NANA ┆ Spirited Away ┆ Maquia: When the Promised Flower Blooms ┆ Chainsaw Man ┆ Your Name ┆ Satsuriku no Tenshi ┆ Howl's Moving Castle ┆ A Silent Voice ┆ Princess Mononoke ┆ Mo Dao Zu Shi ┆ Heaven Official's Blessing ┆ I Want to Eat Your Pancreas ┆ Dr.Stone ┆ Zankyou no Terror ┆ Magical Girl Site ┆ Cyberpunk 2077 ┆ Ouran High School Host Club ┆ Creepypasta ┆ Bungou Stray Dogs ┆ 8:11 ┆ Mad Father ┆ Mouthwashing ┆ Banana Fish ┆ Five Nights at Freddy’s ┆ Deltarune ┆ Arcane ┆ Shadows House ┆ OFF (OFF the game) ┆ My Little Pony ┆ Sherlock ┆ Persona5 ┆  <br>
-- My kinnie: ┆ Sunday (HSR) ┆ Phainon (HSR) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Yuji Itadori (JK) ┆ Shinji Ikari (Evangelion) ┆ Aki Hayakawa (CM) ┆ Ryker Dublin (8:11) ┆ Jinx (Arcane) ┆ Xie Lian (HOB) ┆ Eiji Okumura (BF) ┆ Pure Vanilla Cookie (CR:K) ┆   <br>
+- My kinnie: ┆ Sunday (HSR) ┆ Kaveh (GI) ┆ Karkat (HS) ┆ Gaara (Naruto) ┆ Yashiro Nene (JSH-k) ┆ Yuji Itadori (JK) ┆ Shinji Ikari (Evangelion) ┆ Aki Hayakawa (CM) ┆ Ryker Dublin (8:11) ┆ Jinx (Arcane) ┆ Xie Lian (HOB) ┆ Eiji Okumura (BF) ┆ Pure Vanilla Cookie (CR:K) ┆   <br>
 
  </div>
 
