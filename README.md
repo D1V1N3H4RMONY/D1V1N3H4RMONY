@@ -7,7 +7,7 @@
 </td>
 <td width="60%">
 
-Эщкере
+About me !
 
 </td>
 </tr>
