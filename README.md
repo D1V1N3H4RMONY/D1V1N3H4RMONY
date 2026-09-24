@@ -7,12 +7,11 @@
 </td>
 <td width="60%">
 
-About me !
+Silly
 
 </td>
 </tr>
 </table>
-
 
 
 
