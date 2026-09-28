@@ -23,7 +23,11 @@
 
 </div>
 
-
+<p align="center">
+<picture>
+<img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/57f8ab61-cc22-4ec9-835b-42734d4dc59f" /><img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/1b10f848-44ec-455c-8059-59b5736cd410" />
+</picture>
+</p>
 
 ---
 
