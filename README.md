@@ -8,14 +8,20 @@
 <img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/57f8ab61-cc22-4ec9-835b-42734d4dc59f" /><img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/1b10f848-44ec-455c-8059-59b5736cd410" />
 </picture>
 </p>
+<div align="center">
 
-<picture>
-<img width="400" height="32" alt="image" src="https://github.com/user-attachments/assets/20b70664-4227-48c7-a931-3db4682b9eb3" />
-<img width="400" height="32" alt="image" src="https://github.com/user-attachments/assets/a144c841-17f8-4524-967f-6c321c5bc546" />
+︶︶ ⊹ ︶︶ ︶︶ ⊹ ︶︶ ⊹ ︶︶ ୨♡୧ ︶︶︶ ⊹ ︶︶ ︶︶︶ ⊹ ︶︶
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=300&height=50&lines=About+me" alt="About me">
+
+<br><br>
 
 
-</picture>
+︶︶ ⊹ ︶︶ ︶︶ ⊹ ︶︶ ⊹ ︶︶ ୨♡୧ ︶︶︶ ⊹ ︶︶ ︶︶︶ ⊹ ︶︶
 
+</div>
 
 
 
@@ -23,6 +29,9 @@
 
 <img width="600" height="487" alt="twitsave_com_DywbK_nFISTZnQhS_1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a9c3b64-1950-4393-8fe8-a79f23127c4c" />
 
+<picture>
+<img width="250" height="121" alt="image" src="https://github.com/user-attachments/assets/9f5a3914-f8b2-4be7-96aa-cafa40699f33" />
+</picture>
 
 
  
