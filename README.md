@@ -4,8 +4,17 @@
 <img src="https://github.com/user-attachments/assets/30870f3d-e4e1-4087-a4df-48552405f444" width="270">
 </p>
 <p align="center">
+<picture>
 <img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/57f8ab61-cc22-4ec9-835b-42734d4dc59f" /><img width="400" height="34" alt="image" src="https://github.com/user-attachments/assets/1b10f848-44ec-455c-8059-59b5736cd410" />
+</picture>
 </p>
+
+<picture>
+<img width="400" height="32" alt="image" src="https://github.com/user-attachments/assets/20b70664-4227-48c7-a931-3db4682b9eb3" />
+<img width="400" height="32" alt="image" src="https://github.com/user-attachments/assets/a144c841-17f8-4524-967f-6c321c5bc546" />
+
+
+</picture>
 
 
 
