@@ -34,7 +34,7 @@
 <img width="600" height="487" alt="twitsave_com_DywbK_nFISTZnQhS_1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0a9c3b64-1950-4393-8fe8-a79f23127c4c" />
 
 <picture>
-<img width="290" height="350" alt="image" src="https://github.com/user-attachments/assets/a1673c3e-2639-42bb-8e97-f26f6afdfc09" />
+<img width="290" height="340" alt="image" src="https://github.com/user-attachments/assets/a1673c3e-2639-42bb-8e97-f26f6afdfc09" />
 
 </picture>
 
