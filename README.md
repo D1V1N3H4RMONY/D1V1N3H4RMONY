@@ -16,10 +16,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=300&height=50&lines=About+me" alt="About me">ㅤ
 
-
-[![Atabook](https://img.shields.io/badge/Atabook-black?style=flat-square)](https://d1v1n3mort3m.atabook.org/)
-[![Carrd](https://img.shields.io/badge/Carrd-red?style=flat-square)](https://carrd.com/dashboard/7788179192766776/build)
-
+<p align="center">
+  <a href="https://d1v1n3mort3m.atabook.org/">
+    <img src="https://img.shields.io/badge/Atabook-Guestbook-FF0000?style=for-the-badge" alt="Atabook">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://carrd.com/dashboard/7788179192766776/build">
+    <img src="https://img.shields.io/badge/Carrd-My_Site-000000?style=for-the-badge" alt="Carrd">
+  </a>
+</p>
 
 <br><br>
 
@@ -46,7 +51,6 @@
 
 
 
- 
 
 
 
