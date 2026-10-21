@@ -16,6 +16,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=300&height=50&lines=About+me" alt="About me">
 
+[![Atabook](https://img.shields.io/badge/Atabook-Sign_my_Guestbook-black?style=flat-square)](https://d1v1n3mort3m.atabook.org/)
+[![Carrd](https://img.shields.io/badge/Carrd-Visit_my_Site-red?style=flat-square)](https://carrd.com/dashboard/7788179192766776/build)
+
+
 <br><br>
 
 
