@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://d1v1n3mort3m.atabook.org/">My.Atabook</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="[https://carrd.com/dashboard/7788179192766776/build](https://m0rt3m1nf0.carrd.co/#)">My.Carrd</a>
+  <a href="https://m0rt3m1nf0.carrd.co/#">My.Carrd</a>
 </p>
 
 <br><br>
